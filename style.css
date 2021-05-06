@@ -71,3 +71,41 @@ body {
 .leaflet-tile-pane img {
     filter: grayscale(100%);
 }
+
+.leaflet-popup-content-wrapper {
+    border-radius: 3px;
+    max-width: 500px;
+}
+
+.leaflet-popup-content-wrapper h4 {
+    font-family: 'Poppins';
+    font-size: 16px;
+    line-height: 10px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: rgb(49, 49, 49);
+}
+
+.leaflet-popup-content-wrapper img {
+    width: 300px;
+    padding-bottom: 10px;;
+}
+
+.leaflet-popup-content-wrapper a {
+
+    font-family: 'Poppins';
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 10px;
+    font-weight: 400;
+    color: rgb(26, 26, 26);
+}
+
+.leaflet-popup-content-wrapper a:hover {
+    font-family: 'Poppins';
+    font-size: 12px;
+    line-height: 10px;
+    font-weight: 400;
+    color: rgb(2, 182, 128);
+}
