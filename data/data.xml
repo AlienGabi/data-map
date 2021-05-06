@@ -12,8 +12,18 @@
             <media type="sound" src="recordings/lutherpark_sidewalk.wav" title="One minute of sound at the exit of lutherpark" author="Gabi">
             <media type="video" src="#" title="#" author="#">
         </media-list>
+    
+    </event>
 
-            <location latitude="51.442943" longitude="7.339665">
+
+    <event id="Lutherpark" category="nature" date="2012-05-15">
+    <location latitude="51.442024" longitude="7.338740">
+    
+        <media-list>
+            <img src="asstets/photos/lutherpark.jpg" title="In the Middle of Lutherpark" author="Gabi"/>
+            <media type="sound" src="recordings/lutherpark_sidewalk.wav" title="One minute of sound standing in the middle of lutherpark" author="Gabi">
+            <media type="video" src="#" title="#" author="#">
+        </media-list>
     
 
     </event>
