@@ -1,0 +1,58 @@
+{
+    "events": [{
+            "id": "Lutherpark Ardeystraße",
+            "category": "machine",
+            "date": "2012-05-15",
+            "latitude": 51.442943,
+            "longitude": 7.339665,
+
+            "media": [{
+                    "type": "img",
+                    "src": "asstets/photos/lutherpark_ardeystrasse.jpg",
+                    "title": "Exit of Lutherpark to Ardeystrasse",
+                    "author": "Gabi"
+                },
+                {
+                    "type": "sound",
+                    "src": "recordings/lutherpark_sidewalk.wav",
+                    "title": "One minute of sound at the exit of lutherpark",
+                    "author": "Gabi"
+                },
+                {
+                    "type": "video",
+                    "src": "#",
+                    "title": "",
+                    "author": ""
+                }
+            ]
+        },
+
+        {
+            "id": "Lutherpark",
+            "category": "nature",
+            "date": "2012-05-15",
+            "latitude": 51.442024,
+            "longitude": 7.338740,
+
+            "media": [{
+                    "type": "img",
+                    "src": "asstets/photos/lutherpark.jpg",
+                    "title": "In the Middle of Lutherpark",
+                    "author": "Gabi"
+                },
+                {
+                    "type": "sound",
+                    "src": "recordings/lutherpark.wav",
+                    "title": "One minute of sound standing in the middle of lutherpark",
+                    "author": "Gabi"
+                },
+                {
+                    "type": "video",
+                    "src": "#",
+                    "title": "",
+                    "author": ""
+                }
+            ]
+        }
+    ]
+}
